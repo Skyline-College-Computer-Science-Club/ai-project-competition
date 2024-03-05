@@ -24,7 +24,7 @@ Python download: https://www.python.org/downloads/ (for Windows users, make sure
 
 **2)** Clone the repository to your computer:
 
-2a) Scroll all the way up to the green button that says code, and copy the link from there
+2a) Scroll all the way up to the green button that says `<> Code`, and copy the link from there
 
 2b) Using your command line/terminal, navigate to a new folder that you want these files in
 
