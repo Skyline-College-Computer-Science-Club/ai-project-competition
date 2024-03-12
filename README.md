@@ -31,3 +31,5 @@ Python download: https://www.python.org/downloads/ (for Windows users, make sure
 2c) In the command line/terminal, type `git clone [link that you copied in step a]`
 
 **3)** To install the required packages, run this in the terminal/command line: `pip install -r requirements.txt`
+
+If your command line says pip is not recognized, then try `pip3 install -r requirements.txt` or `python -m pip install -r requirements.txt`
